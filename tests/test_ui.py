@@ -1,3 +1,4 @@
+
 import pytest
 from pages.main_page import MainPage
 from config.settings import BASE_URL

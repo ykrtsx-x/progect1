@@ -1,3 +1,4 @@
+
 import pytest
 from api.kinopoisk_api import KinopoiskAPI
 from config.data import SEARCH_QUERY
