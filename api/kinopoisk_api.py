@@ -1,4 +1,3 @@
-
 import requests
 from config.settings import API_URL
 from config.data import API_KEY
