@@ -70,3 +70,4 @@ def test_page_title_not_empty(driver):
 
     with allure.step("Проверить, что заголовок не пустой"):
         assert page.get_title() != ""
+
